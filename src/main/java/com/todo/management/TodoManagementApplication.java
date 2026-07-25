@@ -10,5 +10,4 @@ public class TodoManagementApplication {
 
 		SpringApplication.run(TodoManagementApplication.class, args);
 	}
-
 }
